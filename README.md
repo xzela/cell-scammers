@@ -14,7 +14,7 @@ Yes, `autorize` was actually spelled that way.
 Well, you're feeling kind of adventurous and decided to check it out. Then it dawns on you, this website actually *looks* legit! You shed a single tear because you realize that the scammers are better at CSS than you. This website has the potential to fool plenty of people. As you poke around it becomes apparent that it's a classic phishing scam.
 
 ## so, what are you going to do about it?
-**You should report the url and phone number to carrier in question.** Most carriers have an phishing/abuse section on their website. This should be done as soon as possible.
+**You should report the url and phone number to the carrier in question.** Most carriers have an phishing/abuse section on their website. This should be done as soon as possible.
 
 ## here's what else you can do: start polluting
 Pollution may be terrible for the earth but it's great for databases. The scammers are already in production and trying to take down a website permanently is fraught with legal issues. We can only assume that a number of people have already provided their real usernames and passwords. So, why not pollute their existing data as much as possible?
